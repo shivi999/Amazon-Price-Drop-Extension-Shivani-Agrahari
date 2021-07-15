@@ -1,0 +1,1 @@
+console.log("chrome extention ready to go");
